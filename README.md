@@ -10,6 +10,7 @@ The Linear Regression Model on Boombikes to analyse the significant features whi
 
 ## General Information
 - Multiple linear regression is performed on the dataset.
+- The project is done as part of coursework from IIIT-Bangalore.
 - We are trying to find the number of rentals issued from the company based on numerous independent values such as temperature, weather, humidity, holiday, etc. 
 - The Boombikes bike rental dataset is being used. 
 
