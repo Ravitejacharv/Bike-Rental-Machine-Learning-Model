@@ -32,7 +32,7 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
       3)	Year (yr): A coefficient value of ‘0.2335’ indicated that year wise the rental numbers are increasing
 
 ## Recommendations to improve the business
--	It is recommended to give utmost importance to these three variables(**Temperature, Light Rain & Year**) while planning to achieve maximum bike rental booking.
+-	It is recommended to give utmost importance to these three variables (**Temperature, Light Rain & Year**) while planning to achieve maximum bike rental booking.
 -	As high temperature and good weather positively impacts bike rentals, it is recommended that **bike availability and promotions to be increased during summer months to further increase bike rentals**.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
