@@ -37,10 +37,12 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Language Used
+## Technologies Used
+
+### Language Used
 - Python
 
-## Libraries Used
+### Libraries Used
 For Importing & Cleaning data 
 - pandas
 - numpy 
@@ -53,7 +55,7 @@ For Model Building
 - statsmodels 
 - sci-kit learn
 
-## Platform
+### Platform
 - Jupyter
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
