@@ -41,10 +41,13 @@ The Linear Regression Model on Boom bikes- To analyse the significant features w
 - Python
 
 ## Libraries Used
+For Importing & Cleaning data 
 - pandas
 - numpy 
+For EDA
 - matplotlib 
 - seaborn 
+For Building model
 - statsmodels 
 - sci-kit learn
 
